@@ -2,6 +2,7 @@
 
 This repository provides the official implementation for reproducing the experiments presented in the paper “ASALT: Adaptive State Alignment for Lateral Transfer in Multi‑agent Reinforcement Learning.”
 The framework supports two types of knowledge transfer between source and target multi‑agent reinforcement learning (MARL) tasks with mismatched observation and state dimensions.
+
 🔄 Types of Transfer
 1. Critic + Actor Transfer
 File: Critic_Actor_Transfer.py
